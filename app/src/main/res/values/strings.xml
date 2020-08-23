@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">whatsapp</string>
+    <string name="logo_do_app">Logo do APP</string>
+    <string name="digite_seu_email">Digite seu e-mail</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="logar">Logar</string>
+    <string name="nao_tem_conta">Não tem conta? Cadastre-se</string>
+    <string name="imagem_de_cadastro">Imagem de Cadastro</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="sair">Sair</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="botao_editar">botão editar</string>
+    <string name="descricao_perfil">Esse não é o seu nome de usuário nem sua senha. Esse nome ficará visível para seus contatos do WhatsApp</string>
+    <string name="nome_do_usuario">Nome do usuário</string>
+    <string name="nome">Nome</string>
+    <string name="e_mail">e-mail</string>
+    <string name="galeria">galeria</string>
+    <string name="paulo_dantas">Paulo Dantas</string>
+    <string name="divisor">Divisor</string>
+    <string name="nome_do_grupo">Nome do grupo</string>
+    <string name="participantes">Participantes: 0</string>
+    <string name="descricao_grupo">Defina um nome e uma imagem opcional</string>
+    <string name="foto">foto</string>
+    <string name="mensagem">Olá tudo bem?</string>
+
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_grupo">GrupoActivity</string>
+    <string name="title_activity_cadastro_grupo">CadastroGrupoActivity</string>
+</resources>

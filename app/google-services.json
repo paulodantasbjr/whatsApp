@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611151495726",
+    "firebase_url": "https://whatsapp-paulodantas.firebaseio.com",
+    "project_id": "whatsapp-paulodantas",
+    "storage_bucket": "whatsapp-paulodantas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611151495726:android:4d2d4e72f70d80a678d5bf",
+        "android_client_info": {
+          "package_name": "com.paulodantas.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611151495726-5grjo5dear7mi6f3b24r60ite6utma4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paulodantas.whatsapp",
+            "certificate_hash": "1165b10fd21836167868c1f0c1a1efaba86228e7"
+          }
+        },
+        {
+          "client_id": "611151495726-5g15n6uksa5m8s02f73qlkplhltr0o0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DUBZAJfAHJ5QLvNle1nIDnwrLAAd0Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611151495726-5g15n6uksa5m8s02f73qlkplhltr0o0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
