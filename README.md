@@ -1,5 +1,5 @@
 # WhatsApp APP Project
-Android application similar to youtube. Developed to practice java.
+Android application similar to whatsapp. Developed to practice java.
 
 # Getting Started
 These instructions will provide a copy of the project running on your local machine for development and testing purposes.
@@ -22,9 +22,12 @@ What things you need to install the software and how to install them
   -[Firebase](https://firebase.google.com/docs/android/setup?hl=pt-br) - For authentication, database and photo storage
   
  # ScreenShots
- ![Home Screen](https://github.com/Jrw0w/youtube/blob/master/main.png) 
- ![Search](https://github.com/Jrw0w/youtube/blob/master/pesquisa.png)
- ![Video](https://github.com/Jrw0w/youtube/blob/master/video.png)
+ ![Home Screen](https://github.com/Jrw0w/whatsApp/blob/master/principal.png) 
+ ![Login](https://github.com/Jrw0w/whatsApp/blob/master/login.png)
+ ![Sign in](https://github.com/Jrw0w/whatsApp/blob/master/cadastro.png)
+ ![Chat](https://github.com/Jrw0w/whatsApp/blob/master/chat.png)
+ ![Contacts](https://github.com/Jrw0w/whatsApp/blob/master/contatos.png)
+ ![Profile](https://github.com/Jrw0w/whatsApp/blob/master/perfil.png)
  
  # Contributing
 Please read [CONTRIBUTING.md](https://github.com/Jrw0w/youtube/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
