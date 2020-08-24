@@ -12,6 +12,9 @@ What things you need to install the software and how to install them
  
  -[JDK](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) - Version 8+
  
+ -[Firebase](https://console.firebase.google.com/) - Create accont and the project
+ 
+ 
   # Libraries
   -[Materialsearchview](https://github.com/MiguelCatalan/MaterialSearchView) - For search video
   
